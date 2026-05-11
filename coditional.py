@@ -9,7 +9,6 @@ print("dkfj")
 a = 40; 
 bb= 55; 
 max = a if a>bb else a<bb;
-
 print(max)
 max = a if a>bb else bb;
 print(max)
