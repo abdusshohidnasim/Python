@@ -1,6 +1,4 @@
-
 nam = 10; 
-
 nam2 = 20
 
 print(f"{nam}+ {nam2} = {nam + nam2}")

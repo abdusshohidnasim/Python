@@ -1,0 +1,10 @@
+stu = []
+stu.append(1)
+stu.append(2)
+stu.append(3)
+print(stu)
+print(type(stu))
+stu.pop()
+print(stu)
+stu.append(45)
+print(stu)

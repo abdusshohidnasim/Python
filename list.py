@@ -20,6 +20,7 @@ print(list)
 list.pop() # List index remove in list 
 print(list)
 list2 = list.copy()
+list[1] = "Flutter" # list in spacic index valu add 
 list.clear()
 print(list)
 print(list2.count("C++"))
@@ -27,4 +28,6 @@ print("List Clear")
 print(list2)
 
 print(list2)
-
+print(list2[0:3]) # list er 0 theke 3 porjonto print korbe
+print("Naiem Hassan Naiem ")
+print(type(list2)) # list er type print korbe

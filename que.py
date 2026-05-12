@@ -1,0 +1,12 @@
+from collections import deque ; 
+que = deque([1,2,3,4,5],)
+print(que)
+que.append(6)
+print(que)
+que.append(7)
+print(que)
+que.append(8)
+print(que)
+que.popleft()
+print(que)
+print(que.popleft())
