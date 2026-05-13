@@ -11,13 +11,14 @@ elif(result>=40 and result<60):
     print("grade C")
 elif(result>=0 and result<40):
     print("fail ")
-
 else:    print("invalid input")
 if 80<=result <=100:
-    print("gradfdfdfde A")
+    print("grad A")
 elif 60<=result <80:
-    print("gradfdfde B")
+    print("grad B")
 elif 40<=result <60:
     print("grade C")
-elif 0<=result <40:    print("fail ")
-else:    print("invalid dfinput")
+elif 0<=result <40:
+    print("fail ")
+else:   
+    print("invalid input")
