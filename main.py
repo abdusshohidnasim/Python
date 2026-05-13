@@ -16,3 +16,7 @@ print(max("Naiem"))
 print(floor(7.6))
 print(ceil(7.6))
 print(round(6.9))
+i = 0
+while i <= 100:
+    print(i)
+    i += 1
