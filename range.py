@@ -1,0 +1,7 @@
+l = list(range(10))
+print(l)
+print(l[2])
+li = list(range(3,10))
+print(li)
+li3 = list(range(3,20,2))
+print(li3)
