@@ -23,3 +23,4 @@ print("That's wonderful! There are many online resources and tutorials available
 print("Thank you for the encouragement! I will definitely check out those resources and start my Python journey.")
 print("You're welcome! Enjoy your learning experience and have fun coding in Python!")
 print("I will! Thank you for the support and guidance.")
+print("You're welcome! If you have any questions or need assistance along the way, feel free to ask.")
