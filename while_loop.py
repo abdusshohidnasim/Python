@@ -20,3 +20,4 @@ print("Yes, I have heard that Python is used in web development, data science, a
 print("Absolutely! Python's simplicity and readability make it a popular choice for beginners and professionals alike.")
 print("I am excited to start learning Python and explore its various applications.")
 print("That's wonderful! There are many online resources and tutorials available to help you get started with Python.")
+print("Thank you for the encouragement! I will definitely check out those resources and start my Python journey.")
