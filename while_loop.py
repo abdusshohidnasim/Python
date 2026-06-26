@@ -4,3 +4,5 @@ while(i<=100):
     i =+ 1; 
 if(i>100):
     print("The loop has ended.")
+if(i<0):
+    print("The loop has ended.")
