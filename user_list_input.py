@@ -32,3 +32,4 @@ for i in  user_input:
 print("Number of letters:", number_offletter)
 print("Number of words:", number_offword)
 print("Number of integers:", number_off_intger + 1)
+print("Number of letters:", number_offletter)
