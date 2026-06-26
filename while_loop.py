@@ -27,3 +27,4 @@ print("You're welcome! If you have any questions or need assistance along the wa
 PermissionError 
 print("I appreciate that! I will reach out if I need any help. Thank you again!")
 print("You're welcome! Happy coding and best of luck on your Python journey!")
+print("Thank you! I am looking forward to learning and growing as a Python programmer.")
