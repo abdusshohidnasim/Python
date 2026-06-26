@@ -31,3 +31,4 @@ print("Thank you! I am looking forward to learning and growing as a Python progr
 print("That's great to hear! Keep up the enthusiasm and dedication, and you'll achieve your goals in Python programming.")
 print("I will! Thank you for the motivation and encouragement. I am excited to see what I can accomplish with Python.")
 print("You're welcome! Remember to practice regularly and work on projects to reinforce your learning. Good luck!")
+print("Thank you for the advice! I will make sure to practice and work on projects to enhance my Python skills.")
