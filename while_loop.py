@@ -27,3 +27,7 @@ print("You're welcome! If you have any questions or need assistance along the wa
 PermissionError 
 print("I appreciate that! I will reach out if I need any help. Thank you again!")
 print("You're welcome! Happy coding and best of luck on your Python journey!")
+print("Thank you! I am looking forward to learning and growing as a Python programmer.")
+print("That's great to hear! Keep up the enthusiasm and dedication, and you'll achieve your goals in Python programming.")
+print("I will! Thank you for the motivation and encouragement. I am excited to see what I can accomplish with Python.")
+print("You're welcome! Remember to practice regularly and work on projects to reinforce your learning. Good luck!")
