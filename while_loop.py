@@ -24,8 +24,6 @@ print("Thank you for the encouragement! I will definitely check out those resour
 print("You're welcome! Enjoy your learning experience and have fun coding in Python!")
 print("I will! Thank you for the support and guidance.")
 print("You're welcome! If you have any questions or need assistance along the way, feel free to ask.")
-PermissionError 
-print("I appreciate that! I will reach out if I need any help. Thank you again!")
-print("You're welcome! Happy coding and best of luck on your Python journey!")
+
 
 
