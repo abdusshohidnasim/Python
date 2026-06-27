@@ -5,4 +5,3 @@ print(f"{nam}+ {nam2} = {nam + nam2}")
 
 print("Type casting")
 print("Naiem",end=" ")
-print("Hassan")
