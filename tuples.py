@@ -7,6 +7,7 @@ studer = (
 print(studer[0][0])
 print("next")
 print(studer[0:])
+
 print("next") 
 
 print(studer[0][1])
