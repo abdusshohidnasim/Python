@@ -16,4 +16,3 @@ print(detail("Naiem", 22, "Dhaka", "Python Developer"))
 def student3 (**a):
     print(a)
 student3(name="Naiem", age=22, city="Dhaka", profession="Python Developer")
-# **a mane hocche keyword argument gulo ke dictionary akare pathano hoba
