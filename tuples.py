@@ -10,7 +10,7 @@ print("next")
 print(studer[0:])
 
 print("next")
-#
+#final bug 
 
 print("next") 
 
