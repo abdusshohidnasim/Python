@@ -12,6 +12,6 @@ print(studer[0:])
 print("next")
 #final bug 
 
-print("next") 
-# git control
+
+
 print(studer[0][1])
