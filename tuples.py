@@ -9,9 +9,4 @@ print("next")
 
 print(studer[0:])
 
-print("next")
-#final bug 
 
-
-
-print(studer[0][1])
